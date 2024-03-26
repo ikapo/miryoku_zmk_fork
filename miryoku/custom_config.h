@@ -4,6 +4,7 @@
 #define MIRYOKU_CLIPBOARD_MAC
 #define MIRYOKU_NAV_VI
 #define MIRYOKU_KLUDGE_MOUSEKEYSPR
+#define U_MOUSE_MOVE_TIME 0
 
 #define MIRYOKU_LAYER_BASE \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
